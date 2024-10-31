@@ -1,0 +1,18 @@
+*body{
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    background-color: brown;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    border: none;
+    border-radius: 45px;
+    height: 40px;
+    width: 40%;
+}
